@@ -1,6 +1,6 @@
-const INSTANCE_LOCATOR = 'YOUR_INSTANCE_LOCATOR'
-const TOKEN_PROVIDER_URL = 'YOUR_TOKEN_PROVIDER_URL'
-const USER_ID = 'YOUR_USER_ID'
+const INSTANCE_LOCATOR = 'v1:us1:f1e97e70-2ad9-4984-879d-56bd5f90699c'
+const TOKEN_PROVIDER_URL = 'https://us1.pusherplatform.io/services/chatkit_token_provider/v1/f1e97e70-2ad9-4984-879d-56bd5f90699c/token'
+const USER_ID = 'fernandes'
 
 let currentUser
 let room
